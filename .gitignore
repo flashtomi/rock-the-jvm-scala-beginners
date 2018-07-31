@@ -1,2 +1,10 @@
-*.class
+**/target
+**/.idea
+**/*.iml
+*.iml
 *.log
+*.ipr
+*.iws
+*.DS_Store
+rebel.xml
+**/chromedriver
